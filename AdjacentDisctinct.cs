@@ -4,7 +4,7 @@ using System.Collections.Generic;
 class AdjacentDistinct {
     static void Main() {
         List<string> step = new List<string>();
-        string inputString = "cabb";
+        string inputString = "cabcabbaacbca";
         step = AdjacentDistinct.TryReduceAdjacentLetter(inputString);
         
         foreach(string s in step) Console.WriteLine(s);
