@@ -12,22 +12,22 @@ class AdjacentDistinct {
   
     private static List<string> TryReduceAdjacentLetter(string inputString)
     {
-        List<string> stepFront = new List<string>();
-        List<string> stepBack = new List<string>();
+        List<string> step = new List<string>();
+        step = ReduceAdjacentLetter(inputString, FROM.FRONT);
         
-        stepFront = ReduceAdjacentLetter(inputString, FROM.FRONT);
-        stepBack = ReduceAdjacentLetter(inputString, FROM.BACK);
+        if (step[step.Count-1].Length > 1)
+        {
+            List<string> stepBack = new List<string>();
+            stepBack = ReduceAdjacentLetter(inputString, FROM.BACK);
+    	
+            if (stepBack[stepBack.Count-1].Length < step[step.Count-1].Length)
+            {
+                step = stepBack;
+            }
+        }
         
     	Console.WriteLine("Original: " + inputString);
-    	
-        if (stepFront[stepFront.Count-1].Length <= stepBack[stepBack.Count-1].Length)
-        {
-            return stepFront;
-        }
-        else
-        {
-            return stepBack;
-        }
+    	return step;
     }
     
     // Method to print the process of reducing the adjacent and distinct letter
