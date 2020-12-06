@@ -16,21 +16,19 @@ public class AdjacentLetter : MonoBehaviour
     // Method to get the shortest word possible
     private List<string> TryTransformAdjacentLetter(string inputString)
     {
-        List<string> stepFront = new List<string>();
-        List<string> stepBack = new List<string>();
+        List<string> step = TransformAdjacentLetter(inputString, FROM.FRONT);
 
-        stepFront = TransformAdjacentLetter(inputString, FROM.FRONT);
-        stepBack = TransformAdjacentLetter(inputString, FROM.BACK);
+        if (step[step.Count - 1].Length > 1)
+        {
+            List<string> stepBack = TransformAdjacentLetter(inputString, FROM.BACK);
 
-        // Return list of process with the shortest word
-        if (stepFront[stepFront.Count - 1].Length <= stepBack[stepBack.Count - 1].Length)
-        {
-            return stepFront;
+            if (stepBack[stepBack.Count - 1].Length < step[step.Count - 1].Length)
+            {
+                step = stepBack;
+            }
         }
-        else
-        {
-            return stepBack;
-        }
+
+        return step;
     }
 
     // Method to get a list of process of adjacent and distinct letter transformation from front or back

@@ -1495,4 +1495,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MenuScene.unity
   - Assets/Scenes/ARScene.unity
-  playerPath: D:/PROJECT/AdjacentDistinctTransformAR.apk
+  playerPath: D:/PROJECT/AdjacentDistinctLetterAR_build.apk

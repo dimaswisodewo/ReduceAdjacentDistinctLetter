@@ -251,7 +251,7 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.8f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.UnityExtensions">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/PackageCache/com.ptc.vuforia.engine@8.1.12/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/PackageCache/com.ptc.vuforia.engine@8.1.12/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.8f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -605,37 +605,37 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.8f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaScripts">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaEditorScripts">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/PROJECT/AdjacentDistinctLetterAR/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/JOB APPLICATION/AdjacentDistinctLetter/ReduceAdjacentDistinctLetter/AR_Project/AdjacentDistinctLetterAR/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
